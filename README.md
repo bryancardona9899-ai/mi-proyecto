@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-Causando conflicto, cambiando una linea desde main
-=======
-Cambiando lineas desde Desarrollo branch
->>>>>>> Desarrollo
+# Proyecto de Práctica de Git, ingresando cambios para un PR
+#Corrigiendo informacion, variables incorrectamente definidas
